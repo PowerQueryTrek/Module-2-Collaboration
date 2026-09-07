@@ -1,6 +1,7 @@
 # Module 2 Lab - Case Study: if...else and while
 # Brian D. Paasch
 # file name = Mod02_Lab.py
+# find this file at https://github.com/PowerQueryTrek/Module-2-Collaboration 
 # This Python app that will accept student names and GPAs and test if the student qualifies
 # for either the Dean's List or the Honor Roll.
 
